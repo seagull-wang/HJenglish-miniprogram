@@ -6,7 +6,7 @@ const list = {
           contentId: 1177432,
           cover: "https://n1image.hjfile.cn/mh/2017/06/26/9ffa8c56cfd76cf5159011f4017f022e.jpg",
           pubdate: "2017-06-27 00:45:00",
-          title: "Quora精选：为什么聪明人总能保持冷静？"
+          title: "Quora精选：为什么聪明人总能保持超级冷静？"
         },
         {
           contentId: 1176561,
